@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Week 1 Questions
+title: Week 1 Solutions
 permalink: /w1-s/
 ---
+
+[Back](session-notes.markdown)
 
 # What was covered: 
 ### Classes, types, access attributes, main method
