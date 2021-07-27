@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Week 1 Questions
-permalink: /w1-q/
+permalink: /w1-s/
 ---
 
 # What was covered: 
 ### Classes, types, access attributes, main method
 
 #### Warm up:
-**<How would you describe the role of a constructor to someone who does not have knowledge of CS?**
+**How would you describe the role of a constructor to someone who does not have knowledge of CS?**
 
 <ul>
 <li>Compare methods to a recipe and constructor is like creating a cupcake
@@ -23,7 +23,7 @@ permalink: /w1-q/
     <li>Helps to determine safety protocol of files and code</li>
     <li>Important to keep variables within classes hidden from rest of program, why?
     <ul>
-        </li> Allows for us to have more control over the variables, can create setter and getters!
+        <li> Allows for us to have more control over the variables, can create setter and getters!
         <ul>
             <li>Setters and getters?</li>
             <li>Setter = method to set value of a variable</li>
