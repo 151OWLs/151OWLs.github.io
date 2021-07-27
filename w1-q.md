@@ -4,6 +4,7 @@ title: Week 1 Questions
 permalink: /w1-q/
 ---
 
+[Back](session-notes.markdown)
 # What was covered: 
 ### Classes, types, access attributes, main method
 
