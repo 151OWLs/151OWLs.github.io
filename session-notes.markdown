@@ -8,5 +8,5 @@ permalink: /session-notes/
 
 The solutions will only be available for view to you once the class is over. 
 
-| Questions | Solutions |
-| [Week 1 Questions](w1-q.md) |
+| Date | Questions | Solutions |
+| 10/13/2021 | [Questions](w1q1.md) | Coming soon |
