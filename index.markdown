@@ -11,5 +11,12 @@ title: CS151 OWLs
 
 Here is the link to the attendance document for the class: [Click here for attendance](https://docs.google.com/forms/d/e/1FAIpQLSeOAt4DqNeuL28dps0Tfd2EFSEcEtObfwBrX6oWJ7O-3pczqg/viewform)
 
-We plan to have some links below to various resources for you to use as you go through the class. If you have not already, join our github organisation, send either Lucas or Sagana an email to be added!
-
+### Community Guidelines
+<ul>
+    <li>Same rules for class as Bob has for lecture</li>
+    <li>Follow Obiesafe</li>
+    <li>Everyone in the room should have a chance to speak</li>
+    <li>If you find yourself speaking too much pull back, and if you don't speak as much try to speak more</li>
+    <li>OWLs are for revision of class concepts, rather than in depth conversations of concepts outside of the class</li>
+    <li>Go to Bob with indepth questions or super specific questions</li>
+</ul>
